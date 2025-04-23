@@ -10,12 +10,9 @@ Cube Dash VR adalah proyek game Virtual Reality yang dikembangkan menggunakan Un
 
 ## ⌛Cara Menjalankan Proyek
 1. Instalasi: git clone https://github.com/asaaaofficial/TaskVR_CubeDash.git
-2. Buka proyek di Unity:​
-Gunakan Unity Hub untuk membuka folder proyek yang telah dikloning.
-3. Konfigurasi perangkat VR:​
-Pastikan perangkat VR Anda terhubung dan dikonfigurasi dengan benar di Unity.
-4. Jalankan game:​
-Klik tombol "Play" di Unity untuk mulai bermain.
+2. Buka proyek di Unity:​ Gunakan Unity Hub untuk membuka folder proyek yang telah dikloning.
+3. Konfigurasi perangkat VR:​ Pastikan perangkat VR Anda terhubung dan dikonfigurasi dengan benar di Unity.
+4. Jalankan game:​ Klik tombol "Play" di Unity untuk mulai bermain.
 
 ## 🎮Demo Online
 Kamu bisa mencoba demo game melalui tautan berikut:
