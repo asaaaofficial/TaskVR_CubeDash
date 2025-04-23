@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nasrun\\CubeDash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE294E42-1EC8-58B3-A1EE-0EFB2CBD20F8}|Assembly-CSharp.csproj|c:\\users\\nasrun\\cubedash\\assets\\script\\cubecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE294E42-1EC8-58B3-A1EE-0EFB2CBD20F8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cubecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CubeControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Nasrun\\CubeDash\\Assets\\Script\\CubeControllers.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CubeControllers.cs",
+              "ToolTip": "C:\\Users\\Nasrun\\CubeDash\\Assets\\Script\\CubeControllers.cs",
+              "RelativeToolTip": "Assets\\Script\\CubeControllers.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:03:36.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
